@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-flywave",
+  "version": "1.0.0",
+  "description": "ESLint configuration used by flywave",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flywave/eslint-config-flywave.git"
+  },
+  "author": "flywave",
+  "license": "Apache 2.0",
+  "private": true
+}
